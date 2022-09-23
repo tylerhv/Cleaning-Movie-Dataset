@@ -1,6 +1,6 @@
 The goal of this was to clean the data as much as possible such that it was workable. 
-My first goal was to remove all of the TV shows from the data set
-Then, change the VOTES and Gross column into floats and integers, since they were originally objects
+My first goal was to remove all of the TV shows from the data set.
+Then, change the VOTES and Gross column into floats and integers, since they were originally objects.
 
 I wanted to see if there was a correlation between the number of votes a movie gets, and the amount of money a movie makes (Gross value)
 I ran a linear regression, and created a distribution graph to see how well the model worked.
