@@ -2,7 +2,7 @@ The goal of this was to clean the data as much as possible such that it was work
 My first goal was to remove all of the TV shows from the data set.
 Then, change the VOTES and Gross column into floats and integers, since they were originally objects.
 
-I wanted to see if there was a correlation between the number of votes a movie gets, and the amount of money a movie makes (Gross value)
+I wanted to see if there was a correlation between the number of votes a movie gets, and the amount of money a movie makes (Gross value).
 I ran a linear regression, and created a distribution graph to see how well the model worked.
 Then, we used a R^2 test to see how well the model worked. The number came out to be .41, or 41%. This means about 41% of the data points can be explained by this model. There is a weak correlation here.
 
